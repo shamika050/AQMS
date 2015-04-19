@@ -1,0 +1,7 @@
+{
+  "name": "Air Quality management system",
+  "version": "0.1.0",
+  "description": "Air Quality management system api documentation",
+  "title": "rest service",
+  "url" : "http://localhost:3000/v0"
+}
